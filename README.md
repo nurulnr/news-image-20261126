@@ -1,8 +1,8 @@
 # News Image — Thursday 26 November 2026
 
-[![make.fun bounty](https://img.shields.io/badge/make.fun-bounty-news--image--20261126-blue)](https://make.fun/bounty/news-image-20261126)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Node](https://img.shields.io/badge/node-%3E%3D22-green)](https://nodejs.org)
+[![make.fun · news-image-20261126](https://make.fun/badge/news-image-20261126.svg)](https://make.fun/bounty/news-image-20261126?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
+[![rank](https://make.fun/badge/news-image-20261126/nurulnr/news-image-20261126/rank.svg)](https://make.fun/bounty/news-image-20261126/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
+[![reward](https://make.fun/badge/news-image-20261126/nurulnr/news-image-20261126/reward.svg)](https://make.fun/bounty/news-image-20261126?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
 
 Sum up 26 November's world news in one image — a front page drawn by `main.ts`
 (Node 22, standard library only) with a lead story, 18 top stories, a UTC
